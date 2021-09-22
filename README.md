@@ -5,3 +5,5 @@ iris flowers classification ML project: this particular ML project is usually re
 ### task 2 :[START.pdf](https://github.com/georgencmerin/LGMVIP--DataScience/files/7093244/START.pdf)
 
 Explanatory data analysis on dataset - terrorism. As a secuity or defence analyst try to find hot area of terrorism. 
+### task 3: 
+Next word prediction 
